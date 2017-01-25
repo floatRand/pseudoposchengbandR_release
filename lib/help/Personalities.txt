@@ -262,4 +262,4 @@ Eclectic     <color:y>Good         </color> <color:y>Good         </color> <colo
 </style>
 
 
-<color:s>Automatically generated for PosChengband R 5.0.3.</color>
+<color:s>Automatically generated for PosChengband R 5.0.5.</color>

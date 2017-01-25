@@ -739,4 +739,4 @@ Yeek         <color:y>Good         </color> <color:b>Heroic       </color> <colo
 </style>
 
 
-<color:s>Automatically generated for PosChengband R 5.0.3.</color>
+<color:s>Automatically generated for PosChengband R 5.0.5.</color>

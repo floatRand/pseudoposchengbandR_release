@@ -299,5 +299,5 @@ Eclectic     Good          Good          Very Good     Very Good
 
 
 
-Automatically generated for PosChengband R 5.0.3.
+Automatically generated for PosChengband R 5.0.5.
 
